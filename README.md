@@ -23,7 +23,6 @@ This is a secure, web-based platform designed to replace manual student election
 ### 1. Project Structure
 
 Ensure your file structure matches the following (the sensitive `db_connect.php` file must be recreated manually):
-
 ### 2. Database Configuration
 
 1.  Access your local **phpMyAdmin** (`http://localhost/phpmyadmin/`).
@@ -45,4 +44,4 @@ $username = "root";
 $password = "";         // Use your XAMPP password (often empty)
 $dbname = "college_elections"; 
 // ... rest of connection logic ...
-?># Online_TNP_Voting_System
+?>"# Online TNP Voting System" 

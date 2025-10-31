@@ -45,4 +45,4 @@ $username = "root";
 $password = "";         // Use your XAMPP password (often empty)
 $dbname = "college_elections"; 
 // ... rest of connection logic ...
-?>
+?># Online_TNP_Voting_System
